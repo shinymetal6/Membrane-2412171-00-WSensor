@@ -1,0 +1,7 @@
+#1 Fattori di scala o matrice ( preferita ) 
+#2 Soglia inferiore, 1 parametro, 16 bit
+#3 Soglia superiore, 1 parametro, 16 bit
+#4 Costante di isteresi : numero di letture la cui media determina il cambio scala, legati a soglia superiore e soglia inferiore
+#5 Hard limit hi : valore oltre il quale cambia scala senza isteresi
+#6 Hard limit lo : valore al di sotto del quale cambia scala senza isteresi
+#7 Numero di sinusoidi, tra 2 e 8
